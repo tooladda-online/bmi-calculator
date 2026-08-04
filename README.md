@@ -2,14 +2,14 @@
 
 # 🧮 BMI Calculator
 
-### Use BMI Calculator free on ToolAdda — quick, accurate, and browser-based.
+### A full health dashboard — BMI, healthy weight range, ideal weight, BMR, daily calories, waist ratios, and a body fat estimate — in one free calculator. Pair it with our
 
 [![Visit BMI Calculator](https://img.shields.io/badge/Visit%20BMI%20Calculator-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/calculators/bmi-calculator.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/calculators/bmi-calculator.html)
 [![Category](https://img.shields.io/badge/Calculators-f59e0b?style=for-the-badge)](#)
 
-**Use Bmi Calculator | ToolAdda with ToolAdda to complete tasks quickly, accurately, and privately in your browser.**
+**Calculate BMI, healthy weight range, ideal weight, BMR, daily calorie needs, waist-to-height/hip ratio, and body fat estimate — free, private, and 100% in your browser.**
 
 [🚀 **Open BMI Calculator Now →**](https://tooladda.online/calculators/bmi-calculator.html)
 
@@ -91,10 +91,26 @@ Visit tooladda.online — search for BMI Calculator or use the link in this repo
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>BMI calculator</code>&nbsp;
-  <code>body mass index</code>&nbsp;
-  <code>healthy weight range</code>&nbsp;
+  <code>bmi calculator</code>&nbsp;
+  <code>body mass index calculator</code>&nbsp;
+  <code>calculate bmi</code>&nbsp;
+  <code>bmi calculator for men</code>&nbsp;
+  <code>bmi calculator for women</code>&nbsp;
+  <code>healthy weight calculator</code>&nbsp;
+  <code>ideal weight calculator</code>&nbsp;
   <code>bmi chart</code>&nbsp;
+  <code>bmi formula</code>&nbsp;
+  <code>bmi calculator by age</code>&nbsp;
+  <code>calculate bmi online</code>&nbsp;
+  <code>body mass index calculator metric</code>&nbsp;
+  <code>bmi calculator india</code>&nbsp;
+  <code>healthy weight range calculator</code>&nbsp;
+  <code>bmi calculator with age and gender</code>&nbsp;
+  <code>bmr calculator</code>&nbsp;
+  <code>tdee calculator</code>&nbsp;
+  <code>body fat calculator</code>&nbsp;
+  <code>waist to hip ratio calculator</code>&nbsp;
+  <code>waist to height ratio calculator</code>&nbsp;
 </p>
 
 ---
@@ -111,4 +127,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: BMI Calculator, BMI calculator, body mass index, healthy weight range, bmi chart, tooladda, free online tool -->
+<!-- SEO: BMI Calculator, bmi calculator, body mass index calculator, calculate bmi, bmi calculator for men, bmi calculator for women, healthy weight calculator, ideal weight calculator, bmi chart, bmi formula, bmi calculator by age, calculate bmi online, body mass index calculator metric, bmi calculator india, healthy weight range calculator, bmi calculator with age and gender, bmr calculator, tdee calculator, body fat calculator, waist to hip ratio calculator, waist to height ratio calculator, tooladda, free online tool -->
